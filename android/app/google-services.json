@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "999119570471",
+    "project_id": "ksaju-213ea",
+    "storage_bucket": "ksaju-213ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999119570471:android:cd90413868473f4b6db002",
+        "android_client_info": {
+          "package_name": "com.teamjj.ksaju"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999119570471-si3kfmnci2kef6menefddea98fl98mtn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIew_9lX5Iamw328CX_OxpsL5MwFvTPfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999119570471-si3kfmnci2kef6menefddea98fl98mtn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
